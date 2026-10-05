@@ -12,4 +12,9 @@ Here's a quick look at what I use:
 --- 
 ## Tips for Beginners
 1. Learn how lighting affects your photos 
-2. Experiment with 
+2. Experiment with different angles.
+3. Always **backup your files !**
+---
+### My Favorite Command
+' git add . '
+This Command saves all my photo project
